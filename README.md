@@ -9,9 +9,13 @@ For this project, I was provided with a .csv file with data points representing 
 To accomplish these tasks, I used the following libraries, included in the first cell of my code:
 
   -import pandas as pd
+  
   -import hvplot.pandas
+  
   -from sklearn.cluster import KMeans
+  
   -from sklearn.decomposition import PCA
+  
   -from sklearn.preprocessing import StandardScaler
 
 # Features
